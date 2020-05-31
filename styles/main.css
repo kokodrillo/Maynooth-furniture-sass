@@ -63,8 +63,23 @@
   .btn-primary {
     position: absolute;
     left: 74%;
-    top: 122%;
+    top: 122.5%;
     width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
   }
 }
 
@@ -124,7 +139,25 @@
   .btn-primary {
     position: absolute;
     left: 82%;
-    top: 128%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
     width: 120px;
   }
 }
@@ -179,7 +212,25 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 169%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
     width: 130px;
   }
 }
@@ -253,7 +304,25 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 153%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
     width: 130px;
   }
 }
@@ -317,9 +386,37 @@
   .btn-primary {
     position: absolute;
     left: 94%;
-    top: 205%;
+    top: 207.5%;
     width: 140px;
   }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
+    width: 140px;
+  }
+}
+
+#myLinks {
+  display: block;
 }
 
 .bg-light {
@@ -446,8 +543,23 @@
   .btn-primary {
     position: absolute;
     left: 74%;
-    top: 122%;
+    top: 122.5%;
     width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
   }
 }
 
@@ -507,7 +619,25 @@
   .btn-primary {
     position: absolute;
     left: 82%;
-    top: 128%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
     width: 120px;
   }
 }
@@ -562,7 +692,25 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 169%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
     width: 130px;
   }
 }
@@ -636,7 +784,25 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 153%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
     width: 130px;
   }
 }
@@ -700,7 +866,483 @@
   .btn-primary {
     position: absolute;
     left: 94%;
-    top: 205%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
+    width: 140px;
+  }
+}
+
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  position: relative;
+  background-color: #f4f5f6;
+  height: 180px;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: black;
+  padding: 2px 16px;
+  text-decoration: none;
+  font-size: 13px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  color: black;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  #search {
+    position: absolute !important;
+    left: 40%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 83%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 200px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .sofa {
+    position: relative;
+    left: 42%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122.5%;
+    width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
+  }
+}
+
+@media (min-width: 576px) {
+  #search {
+    position: absolute !important;
+    left: 43%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 87%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 200px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
+    width: 120px;
+  }
+}
+
+@media (min-width: 768px) {
+  #search {
+    position: absolute !important;
+    left: 45%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 500px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 992px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 73%;
+    font-size: 17px;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+    height: 18%;
+  }
+  .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    padding-left: 90px;
+  }
+  #logo {
+    width: 139px;
+    height: 30px;
+    position: absolute;
+    top: 55px;
+    left: -1%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
+  .card-trip {
+    height: 600px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 82%;
+    font-size: 15px;
+  }
+  #icons {
+    position: absolute;
+    left: 95%;
+    height: 20%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
+  .card-trip {
+    height: 700px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
     width: 140px;
   }
 }
@@ -786,8 +1428,23 @@
   .btn-primary {
     position: absolute;
     left: 74%;
-    top: 122%;
+    top: 122.5%;
     width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
   }
 }
 
@@ -847,7 +1504,25 @@
   .btn-primary {
     position: absolute;
     left: 82%;
-    top: 128%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
     width: 120px;
   }
 }
@@ -902,7 +1577,25 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 169%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
     width: 130px;
   }
 }
@@ -976,7 +1669,25 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 153%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
     width: 130px;
   }
 }
@@ -1040,7 +1751,31 @@
   .btn-primary {
     position: absolute;
     left: 94%;
-    top: 205%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
     width: 140px;
   }
 }
@@ -1225,8 +1960,23 @@ img {
   .btn-primary {
     position: absolute;
     left: 74%;
-    top: 122%;
+    top: 122.5%;
     width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
   }
 }
 
@@ -1286,7 +2036,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 82%;
-    top: 128%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
     width: 120px;
   }
 }
@@ -1341,7 +2109,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 169%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
     width: 130px;
   }
 }
@@ -1415,7 +2201,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 153%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
     width: 130px;
   }
 }
@@ -1479,7 +2283,31 @@ img {
   .btn-primary {
     position: absolute;
     left: 94%;
-    top: 205%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
     width: 140px;
   }
 }
@@ -1561,8 +2389,23 @@ img {
   .btn-primary {
     position: absolute;
     left: 74%;
-    top: 122%;
+    top: 122.5%;
     width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
   }
 }
 
@@ -1622,7 +2465,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 82%;
-    top: 128%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
     width: 120px;
   }
 }
@@ -1677,7 +2538,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 169%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
     width: 130px;
   }
 }
@@ -1751,7 +2630,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 153%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
     width: 130px;
   }
 }
@@ -1815,7 +2712,31 @@ img {
   .btn-primary {
     position: absolute;
     left: 94%;
-    top: 205%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
     width: 140px;
   }
 }
@@ -1880,7 +2801,7 @@ img {
 @media (min-width: 100px) and (max-width: 575px) {
   .second {
     left: 38%;
-    width: 25%;
+    width: 29%;
   }
 }
 
@@ -1888,7 +2809,7 @@ img {
   .second {
     position: relative;
     left: 38%;
-    width: 25%;
+    width: 31%;
     padding-bottom: 20px;
   }
 }
@@ -1896,7 +2817,7 @@ img {
 @media (min-width: 768px) {
   .second {
     left: 39%;
-    width: 23%;
+    width: 28%;
     padding-bottom: 20px;
   }
 }
@@ -1905,14 +2826,14 @@ img {
   .second {
     left: 45%;
     padding-bottom: 20px;
-    width: 15%;
+    width: 28%;
   }
 }
 
 @media (min-width: 1200px) {
   .second {
     left: 42.5%;
-    width: 15%;
+    width: 19%;
     padding-bottom: 20px;
   }
 }
@@ -1947,14 +2868,14 @@ img {
 @media (min-width: 992px) {
   .third {
     left: 45%;
-    width: 32%;
+    width: 30%;
   }
 }
 
 @media (min-width: 1200px) {
   .third {
     left: 42.5%;
-    width: 32%;
+    width: 19%;
   }
 }
 
@@ -2027,8 +2948,23 @@ img {
   .btn-primary {
     position: absolute;
     left: 74%;
-    top: 122%;
+    top: 122.5%;
     width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
   }
 }
 
@@ -2088,7 +3024,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 82%;
-    top: 128%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
     width: 120px;
   }
 }
@@ -2143,7 +3097,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 169%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
     width: 130px;
   }
 }
@@ -2217,7 +3189,25 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 153%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
     width: 130px;
   }
 }
@@ -2281,7 +3271,515 @@ img {
   .btn-primary {
     position: absolute;
     left: 94%;
-    top: 205%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
+    width: 140px;
+  }
+}
+
+.footer-text {
+  background-color: #f4f5f6;
+  height: 300px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+  padding: 30px;
+  font-size: 13px;
+  text-align: center;
+  color: #979797 !important;
+}
+
+.text-first p, h6 {
+  color: #979797 !important;
+}
+
+.back {
+  font-size: 12px;
+  padding-left: 30px;
+  color: black;
+  position: absolute;
+}
+
+.back:hover {
+  color: #93979a;
+  text-decoration: none;
+}
+
+#arrow-left {
+  width: 6px;
+  margin-right: 10px;
+}
+
+.icons-bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  padding: 0px 50px;
+}
+
+.icons-bottom #facebook {
+  width: 40px;
+  height: 30px;
+}
+
+.icons-bottom #twitter {
+  width: 40px;
+  height: 30px;
+}
+
+.icons-bottom #instagram {
+  width: 40px;
+  height: 30px;
+}
+
+.icons-bottom #pinterest {
+  width: 40px;
+  height: 30px;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  #search {
+    position: absolute !important;
+    left: 40%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 83%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 200px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .sofa {
+    position: relative;
+    left: 42%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122.5%;
+    width: 130px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 75.4%;
+    width: 100px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 37.1%;
+    width: 100px;
+  }
+  .product {
+    top: 84%;
+  }
+}
+
+@media (min-width: 576px) {
+  #search {
+    position: absolute !important;
+    left: 43%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 87%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 200px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 130%;
+    width: 120px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 5%;
+    top: 51.5%;
+    width: 140px;
+  }
+  #dots {
+    position: absolute;
+    left: 5%;
+    top: 80.5%;
+    width: 140px;
+  }
+  .product {
+    position: absolute;
+    left: 82%;
+    top: 98%;
+    width: 120px;
+  }
+}
+
+@media (min-width: 768px) {
+  #search {
+    position: absolute !important;
+    left: 45%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 500px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 171%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 101%;
+    width: 180px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 122%;
+    width: 180px;
+  }
+  .product {
+    position: absolute;
+    left: 85%;
+    top: 148%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 992px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 73%;
+    font-size: 17px;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+    height: 18%;
+  }
+  .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    padding-left: 90px;
+  }
+  #logo {
+    width: 139px;
+    height: 30px;
+    position: absolute;
+    top: 55px;
+    left: -1%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
+  .card-trip {
+    height: 600px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 156%;
+    width: 130px;
+  }
+  #dotsprod {
+    position: absolute;
+    left: 4%;
+    top: 103%;
+    width: 240px;
+  }
+  #dots {
+    position: absolute;
+    left: 4%;
+    top: 106.5%;
+    width: 240px;
+  }
+  .product {
+    position: absolute;
+    left: 88%;
+    top: 150%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 82%;
+    font-size: 15px;
+  }
+  #icons {
+    position: absolute;
+    left: 95%;
+    height: 20%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
+  .card-trip {
+    height: 700px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 207.5%;
+    width: 140px;
+  }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 163.5%;
+    height: 20%;
+    left: -23%;
+  }
+  #dots {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 198%;
+    height: 20%;
+    left: -23%;
+  }
+  .product {
+    position: absolute;
+    left: 94%;
+    top: 171%;
     width: 140px;
   }
 }

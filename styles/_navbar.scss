@@ -2,6 +2,9 @@
 @import 'helpers';
 @import 'responsive';
 
+#myLinks{
+  display: block;
+}
 
 .bg-light {
   background-color:color(grey);
