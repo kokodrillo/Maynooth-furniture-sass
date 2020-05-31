@@ -1,0 +1,169 @@
+@import 'config';
+@import 'helpers';
+@import 'responsive';
+
+// NEW-----------------------------------------------------
+.first{
+  vertical-align: middle;
+  border-style: none;
+  position: relative;
+}
+    // Smallest device
+@media (min-width: 100px) and (max-width: 575px) {
+  .first{
+    left: 38%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 25%;
+   }
+ }
+ 
+ // Small devices (landscape phones, 576px and up)
+ @media (min-width: 576px) {
+  .first {
+    left: 38%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 25%;
+  }
+ }
+ 
+ // Medium devices (tablets, 768px and up)
+ @media (min-width: 768px) {
+  .first {
+    left: 39%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 23%;
+  }
+ }
+ 
+ // Large devices (desktops, 992px and up)
+ @media (min-width: 992px) {
+  .first {
+    left: 39%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 22%;
+  }
+ }
+ 
+ // Extra large devices (large desktops, 1200px and up)
+ @media (min-width: 1200px) {
+  .first {
+    left: 42.5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+ }
+
+  // IDEAS-----------------------------------------------------
+
+ .second {
+  vertical-align: middle;
+  border-style: none;
+  position: relative;
+}
+
+
+ // Smallest device
+@media (min-width: 100px) and (max-width: 575px) {
+  .second {
+    left: 38%;
+    width: 25%;
+   }
+ }
+ 
+ // Small devices (landscape phones, 576px and up)
+ @media (min-width: 576px) {
+  .second {
+    position: relative;
+    left: 38%;
+    width: 25%;
+    padding-bottom: 20px;
+  }
+ }
+ 
+ // Medium devices (tablets, 768px and up)
+ @media (min-width: 768px) {
+  .second {
+    left: 39%;
+    width: 23%;
+    padding-bottom: 20px;
+
+  }
+ }
+ 
+ // Large devices (desktops, 992px and up)
+ @media (min-width: 992px) {
+  .second {
+    left: 45%;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+ }
+ 
+ // Extra large devices (large desktops, 1200px and up)
+ @media (min-width: 1200px) {
+  .second{
+    left: 42.5%;
+    width: 15%;
+    padding-bottom: 20px;
+  }
+ }
+
+ // NEW-----------------------------------------------------
+ .third {
+  vertical-align: middle;
+  border-style: none;
+  position: relative;
+  // padding-bottom: 20px;
+}
+
+ // Smallest device
+ @media (min-width: 100px) and (max-width: 575px) {
+  .third {
+    left: 38%;
+    width: 32%;
+   }
+ }
+ 
+ // Small devices (landscape phones, 576px and up)
+ @media (min-width: 576px) {
+  .third {
+    left: 38%;
+    width: 32%;
+  }
+ }
+ 
+ // Medium devices (tablets, 768px and up)
+ @media (min-width: 768px) {
+  .third {
+    left: 39%;
+    width: 32%;
+  }
+ }
+ 
+ // Large devices (desktops, 992px and up)
+ @media (min-width: 992px) {
+  .third {
+    left: 45%;
+    width: 32%;
+ 
+  }
+ }
+ 
+ // Extra large devices (large desktops, 1200px and up)
+ @media (min-width: 1200px) {
+  .third {
+    left: 42.5%;
+    width: 32%;
+  }
+ }
+
+ .clear {
+  text-align: center;
+  padding: 20px;
+}
+ 
