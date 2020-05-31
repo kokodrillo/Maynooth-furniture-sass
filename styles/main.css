@@ -53,6 +53,19 @@
     padding-bottom: 20px;
     width: 15%;
   }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 576px) {
@@ -101,6 +114,19 @@
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 128%;
+    width: 120px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -145,6 +171,16 @@
   .sofas {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
   }
 }
 
@@ -207,6 +243,19 @@
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
   }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 153%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -257,6 +306,19 @@
   .sofas {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
   }
 }
 
@@ -374,6 +436,19 @@
     padding-bottom: 20px;
     width: 15%;
   }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 576px) {
@@ -422,6 +497,19 @@
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 128%;
+    width: 120px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -466,6 +554,16 @@
   .sofas {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
   }
 }
 
@@ -528,6 +626,19 @@
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
   }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 153%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -578,6 +689,19 @@
   .sofas {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
   }
 }
 
@@ -652,6 +776,19 @@
     padding-bottom: 20px;
     width: 15%;
   }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 576px) {
@@ -700,6 +837,19 @@
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 128%;
+    width: 120px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -744,6 +894,16 @@
   .sofas {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
   }
 }
 
@@ -806,6 +966,19 @@
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
   }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 153%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -856,6 +1029,19 @@
   .sofas {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
   }
 }
 
@@ -1029,6 +1215,19 @@ img {
     padding-bottom: 20px;
     width: 15%;
   }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 576px) {
@@ -1077,6 +1276,19 @@ img {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 128%;
+    width: 120px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -1121,6 +1333,16 @@ img {
   .sofas {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
   }
 }
 
@@ -1183,6 +1405,19 @@ img {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
   }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 153%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -1233,6 +1468,355 @@ img {
   .sofas {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
+  }
+}
+
+.btn-primary {
+  color: black !important;
+  background-color: #ffffff !important;
+  border: none !important;
+  font-size: 11px !important;
+  line-height: 2rem !important;
+  border-radius: 0px !important;
+}
+
+#arrow {
+  padding-left: 10%;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  #search {
+    position: absolute !important;
+    left: 40%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 83%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 200px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .sofa {
+    position: relative;
+    left: 42%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 576px) {
+  #search {
+    position: absolute !important;
+    left: 43%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 87%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 200px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 128%;
+    width: 120px;
+  }
+}
+
+@media (min-width: 768px) {
+  #search {
+    position: absolute !important;
+    left: 45%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .card-trip {
+    height: 500px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 992px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 73%;
+    font-size: 17px;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+    height: 18%;
+  }
+  .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    padding-left: 90px;
+  }
+  #logo {
+    width: 139px;
+    height: 30px;
+    position: absolute;
+    top: 55px;
+    left: -1%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
+  .card-trip {
+    height: 600px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 153%;
+    width: 130px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 82%;
+    font-size: 15px;
+  }
+  #icons {
+    position: absolute;
+    left: 95%;
+    height: 20%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+  }
+  .cards {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .pr {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
+  .card-trip {
+    height: 700px;
+  }
+  .sofas {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
   }
 }
 
@@ -1433,6 +2017,19 @@ img {
     padding-bottom: 20px;
     width: 15%;
   }
+  .break {
+    padding: 60px;
+  }
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 576px) {
@@ -1481,6 +2078,19 @@ img {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .break {
+    padding: 83px;
+  }
+  .back {
+    position: absolute;
+    top: 110%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 82%;
+    top: 128%;
+    width: 120px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -1525,6 +2135,16 @@ img {
   .sofas {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 161%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
   }
 }
 
@@ -1587,6 +2207,19 @@ img {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
   }
+  .back {
+    position: absolute;
+    top: 166%;
+  }
+  .break {
+    padding: 110px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 88%;
+    top: 153%;
+    width: 130px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -1637,6 +2270,19 @@ img {
   .sofas {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .back {
+    position: absolute;
+    top: 188%;
+  }
+  .break {
+    padding: 121px;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
   }
 }
 

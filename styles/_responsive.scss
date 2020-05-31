@@ -53,13 +53,28 @@
   .sofas {
     grid-template-columns: 1fr;
   }
-  .sofa{
+  .sofa {
     position: relative;
    left: 42%;
    padding-top: 20px;
    padding-bottom: 20px;
    width: 15%;
   }
+  .break {
+    padding: 60px;
+  }
+
+  .back {
+    position: absolute;
+    top: 93%;
+  }
+  .btn-primary {
+    position: absolute;
+    left: 74%;
+    top: 122%;
+    width: 130px;
+    }
+
 }
 
 // ----------------------------------------------------------------------------
@@ -111,6 +126,21 @@
   .sofas {
     grid-template-columns: 1fr;
   }
+  .break {
+    padding: 83px;
+   }
+
+  .back {
+   position: absolute;
+   top: 110%;
+ }
+ .btn-primary {
+  position: absolute;
+  left: 82%;
+  top: 128%;
+  width: 120px;
+  }
+
 }
 
 // -----------------------------------------------------------------------------
@@ -161,6 +191,16 @@
 
   .sofas{
     grid-template-columns: 1fr 1fr;
+  }
+  .back{
+    position: absolute;
+    top: 161%;
+   }
+   .btn-primary {
+    position: absolute;
+    left: 85%;
+    top: 169%;
+    width: 130px;
   }
 }
 
@@ -230,6 +270,22 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
+.back{
+  position: absolute;
+  top: 166%;
+ }
+
+ .break{
+  padding: 110px;
+ }
+
+ .btn-primary {
+  position: absolute;
+  left: 88%;
+  top: 153%;
+  width: 130px;
+  }
+
 }
 
 // --------------------------------------------------------------------------
@@ -286,7 +342,22 @@
 
 .sofas {
   grid-template-columns: 1fr 1fr 1fr 1fr;
-}
+  }
+
+  .back {
+    position: absolute;
+    top: 188%;
+   }
+
+   .break {
+    padding: 121px;
+   }
+   .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 205%;
+    width: 140px;
+  }
 }
 
 
