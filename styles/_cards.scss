@@ -1,0 +1,102 @@
+@import 'config';
+@import 'helpers';
+@import 'responsive';
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card-category {
+  background-size: cover;
+  background-position: center;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  // box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  color: color(white);
+  font-size: 1rem;
+}
+
+.card-trip {
+  overflow: hidden;
+  background: white;
+}
+
+.card-trip > img {
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  padding: 20px;
+}
+
+.pr{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  height: 100%;
+}
+
+.card-title {
+  color: color(white);
+  &:hover{
+    color:color(black);
+    text-decoration: none;
+  }
+}
+
+.card-sofa > img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-sofa h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-sofa p {
+  font-size: 12px;
+  opacity: .7;
+  margin: 0;
+}
+
+
+.card-trip .card-trip-infos {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+
+.sofas {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 16px;
+  padding: 20px;
+}
+
+.card-sofa{
+  box-shadow: 3px 3px 9px 1px #ccc;
+}
