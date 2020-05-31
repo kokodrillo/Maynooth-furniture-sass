@@ -1,0 +1,16 @@
+@import 'helpers';
+@import 'config';
+@import 'responsive';
+
+.btn-primary {
+  color: black !important;
+  background-color: #ffffff !important;
+  border:none !important;
+  font-size: 11px !important;
+  line-height: 2rem !important;
+  border-radius: 0px !important;
+}
+
+#arrow {
+  padding-left: 10%;
+}
