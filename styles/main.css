@@ -17,6 +17,20 @@
     top: 15px;
     left: 49%;
   }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
 }
 
 @media (min-width: 576px) {
@@ -37,6 +51,19 @@
     top: 15px;
     left: 49%;
   }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
 }
 
 @media (min-width: 768px) {
@@ -45,14 +72,27 @@
     left: 45%;
     background: none;
   }
-  #icon
-s {
+  #icons {
     position: absolute;
     left: 90%;
   }
   #logo {
     height: 30% !important;
     position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
   }
 }
 
@@ -86,6 +126,20 @@ s {
     top: 55px;
     left: -1%;
   }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -108,10 +162,20 @@ s {
     height: 30% !important;
     position: absolute;
   }
-}
-
-#myLinks {
-  display: block;
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+  }
 }
 
 .bg-light {
@@ -192,6 +256,20 @@ s {
     top: 15px;
     left: 49%;
   }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
 }
 
 @media (min-width: 576px) {
@@ -212,6 +290,19 @@ s {
     top: 15px;
     left: 49%;
   }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
 }
 
 @media (min-width: 768px) {
@@ -220,14 +311,27 @@ s {
     left: 45%;
     background: none;
   }
-  #icon
-s {
+  #icons {
     position: absolute;
     left: 90%;
   }
   #logo {
     height: 30% !important;
     position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
   }
 }
 
@@ -261,6 +365,20 @@ s {
     top: 55px;
     left: -1%;
   }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -282,6 +400,538 @@ s {
   #logo {
     height: 30% !important;
     position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+  }
+}
+
+#title {
+  width: 30%;
+  font-family: "acumin-pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  left: 45%;
+  top: 40%;
+}
+
+.banner {
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  padding: 150px 0;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  #search {
+    position: absolute !important;
+    left: 40%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 83%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
+}
+
+@media (min-width: 576px) {
+  #search {
+    position: absolute !important;
+    left: 43%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 87%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
+}
+
+@media (min-width: 768px) {
+  #search {
+    position: absolute !important;
+    left: 45%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
+  }
+}
+
+@media (min-width: 992px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 73%;
+    font-size: 17px;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+    height: 18%;
+  }
+  .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    padding-left: 90px;
+  }
+  #logo {
+    width: 139px;
+    height: 30px;
+    position: absolute;
+    top: 55px;
+    left: -1%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 82%;
+    font-size: 15px;
+  }
+  #icons {
+    position: absolute;
+    left: 95%;
+    height: 20%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+  }
+}
+
+.first {
+  vertical-align: middle;
+  border-style: none;
+  position: relative;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  .first {
+    left: 38%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 25%;
+  }
+}
+
+@media (min-width: 576px) {
+  .first {
+    left: 38%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 25%;
+  }
+}
+
+@media (min-width: 768px) {
+  .first {
+    left: 39%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 23%;
+  }
+}
+
+@media (min-width: 992px) {
+  .first {
+    left: 39%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 22%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .first {
+    left: 42.5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+}
+
+.second {
+  vertical-align: middle;
+  border-style: none;
+  position: relative;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  .second {
+    left: 38%;
+    width: 25%;
+  }
+}
+
+@media (min-width: 576px) {
+  .second {
+    position: relative;
+    left: 38%;
+    width: 25%;
+    padding-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .second {
+    left: 39%;
+    width: 23%;
+    padding-bottom: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .second {
+    left: 45%;
+    padding-bottom: 20px;
+    width: 15%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .second {
+    left: 42.5%;
+    width: 15%;
+    padding-bottom: 20px;
+  }
+}
+
+.third {
+  vertical-align: middle;
+  border-style: none;
+  position: relative;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  .third {
+    left: 38%;
+    width: 32%;
+  }
+}
+
+@media (min-width: 576px) {
+  .third {
+    left: 38%;
+    width: 32%;
+  }
+}
+
+@media (min-width: 768px) {
+  .third {
+    left: 39%;
+    width: 32%;
+  }
+}
+
+@media (min-width: 992px) {
+  .third {
+    left: 45%;
+    width: 32%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .third {
+    left: 42.5%;
+    width: 32%;
+  }
+}
+
+.clear {
+  text-align: center;
+  padding: 20px;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  #search {
+    position: absolute !important;
+    left: 40%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 83%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+  }
+  #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+  }
+}
+
+@media (min-width: 576px) {
+  #search {
+    position: absolute !important;
+    left: 43%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 87%;
+    height: 13%;
+  }
+  #logo {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 49%;
+  }
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+  }
+  #title {
+    width: 23%;
+    position: absolute;
+    left: 43%;
+    top: 9%;
+    height: 16%;
+  }
+}
+
+@media (min-width: 768px) {
+  #search {
+    position: absolute !important;
+    left: 45%;
+    background: none;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 12%;
+    height: 25%;
+  }
+}
+
+@media (min-width: 992px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 73%;
+    font-size: 17px;
+  }
+  #icons {
+    position: absolute;
+    left: 90%;
+    height: 18%;
+  }
+  .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    padding-left: 90px;
+  }
+  #logo {
+    width: 139px;
+    height: 30px;
+    position: absolute;
+    top: 55px;
+    left: -1%;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 700px;
+  }
+  #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #search {
+    position: absolute !important;
+    left: 47%;
+    border: none;
+    border-radius: 15px;
+    width: 15%;
+    height: 20%;
+    left: 82%;
+    font-size: 15px;
+  }
+  #icons {
+    position: absolute;
+    left: 95%;
+    height: 20%;
+  }
+  #logo {
+    height: 30% !important;
+    position: absolute;
+  }
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+  }
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
   }
 }
 

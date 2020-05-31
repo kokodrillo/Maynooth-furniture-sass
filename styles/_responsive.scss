@@ -23,7 +23,20 @@
     top: 15px;
     left: 49%;
   }
-
+  .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 350px;
+   }
+   #title {
+    width: 30%;
+    position: absolute;
+    left: 39%;
+    top: 13%;
+    height: 11%;
+   }
 }
 
 // ----------------------------------------------------------------------------
@@ -48,6 +61,19 @@
     top: 15px;
     left: 49%;
    }
+   .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 400px;
+ }
+ #title {
+  width: 23%;
+  position: absolute;
+  left: 43%;
+  top: 9%;
+  height: 16%;
+  }
 }
 
 // -----------------------------------------------------------------------------
@@ -58,8 +84,8 @@
     left: 45%;
     background: none;
    }
-  #icon
-  s {
+
+  #icons {
     position: absolute;
     left: 90%;
   }
@@ -68,6 +94,21 @@
     height: 30% !important;
     position: absolute;
    }
+   .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 600px;
+ }
+
+ #title {
+  width: 20%;
+  position: absolute;
+  left: 43%;
+  top: 12%;
+  height: 25%;
+  }
 }
 
 // -----------------------------------------------------------------
@@ -104,6 +145,22 @@
     left: -1%;
      }
 
+  .banner {
+      background-size: cover;
+      background-position: bottom;
+      background-repeat: no-repeat;
+      padding: 150px 0;
+      height: 700px;
+   }
+
+   #title {
+    width: 20%;
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    height: 20%;
+ }
+
 }
 
 // --------------------------------------------------------------------------
@@ -130,6 +187,22 @@
     height: 30% !important;
     position: absolute;
    }
+
+   .banner {
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    height: 1200px;
+ }
+
+  #title {
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 13%;
+    height: 20%;
+ }
 }
 
 
