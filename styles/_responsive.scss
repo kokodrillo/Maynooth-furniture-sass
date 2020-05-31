@@ -66,7 +66,7 @@
 
   .back {
     position: absolute;
-    top: 93%;
+    top: 107%;
   }
   .btn-primary {
     position: absolute;
@@ -84,12 +84,15 @@
     #dotsprod {
       position: absolute;
       left: 5%;
-      top: 50.3%;
+      // top: 50.3%;
+      top:40%;
       width: 100px;
      }
-     .product {
-      top: 97%;
-    }
+   
+    .product {
+      position:absolute;
+      top: 70%;
+  }
 }
 
 // ----------------------------------------------------------------------------
@@ -170,9 +173,9 @@
    .product {
     position: absolute;
     left: 82%;
-    top: 100%;
+    top: 70%;
     width: 120px;
-}
+  }
 }
 
 // -----------------------------------------------------------------------------
@@ -226,7 +229,7 @@
   }
   .back{
     position: absolute;
-    top: 161%;
+    top: 163%;
    }
    .btn-primary {
     position: absolute;
@@ -237,7 +240,7 @@
   #dotsprod {
     position: absolute;
     left: 4%;
-    top: 101%;
+    top: 103%;
     width: 180px;
    }
    #dots {
@@ -249,7 +252,7 @@
    .product{
     position: absolute;
     left: 85%;
-    top: 148%;
+    top: 88%;
     width: 130px;
   }
 }
@@ -322,7 +325,7 @@
 
 .back{
   position: absolute;
-  top: 166%;
+  top: 168%;
  }
 
  .break{
@@ -338,7 +341,7 @@
   #dotsprod {
     position: absolute;
     left: 4%;
-    top: 103%;
+    top: 105%;
     width: 240px;
    }
    #dots {
@@ -350,7 +353,7 @@
    .product{
     position: absolute;
     left: 88%;
-    top: 150%;
+    top: 90%;
     width: 130px;
   }
 }
@@ -413,7 +416,7 @@
 
   .back {
     position: absolute;
-    top: 188%;
+    top: 191%;
    }
 
    .break {
@@ -430,7 +433,7 @@
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 163.5%;
+    top: 166.5%;
     height: 20%;
     left: -23%;
    }
@@ -447,7 +450,7 @@
    .product {
     position: absolute;
     left: 94%;
-    top: 171%;
+    top: 91%;
     width: 140px;
   }
 
