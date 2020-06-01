@@ -69,7 +69,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -601,7 +601,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -1105,7 +1105,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -1590,7 +1590,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -2175,7 +2175,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -2656,7 +2656,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -3263,7 +3263,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -3799,7 +3799,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 75.4%;
+    top: 37.6%;
     width: 100px;
   }
   #dotsprod {
@@ -4204,17 +4204,24 @@ img {
   padding: 0;
 }
 
-body {
-  margin: 0;
-  padding: 0;
+html {
   height: 100%;
-  max-width: 100%;
+}
+
+body {
   font-weight:  700;
   font-style:  normal;
   font-family: "acumin-pro", sans-serif;
   font-weight: 400;
   font-style: normal;
-  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  min-height: 100%;
 }
 
 .container {
@@ -4232,7 +4239,6 @@ h3 {
 }
 
 .footer-text {
-  position: absolute;
-  width: 100%;
+  margin-top: auto;
 }
 /*# sourceMappingURL=main.css.map */
