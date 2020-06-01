@@ -1,5 +1,8 @@
 @charset "UTF-8";
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -69,7 +72,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -213,7 +216,7 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -305,7 +308,7 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -386,8 +389,8 @@
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -404,9 +407,9 @@
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -435,6 +438,12 @@
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -532,6 +541,9 @@
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -601,7 +613,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -745,7 +757,7 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -837,7 +849,7 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -918,8 +930,8 @@
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -936,9 +948,9 @@
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -967,6 +979,12 @@
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -1036,6 +1054,9 @@
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -1105,7 +1126,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -1249,7 +1270,7 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -1341,7 +1362,7 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -1422,8 +1443,8 @@
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -1440,9 +1461,9 @@
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -1471,6 +1492,12 @@
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -1521,6 +1548,9 @@
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -1590,7 +1620,7 @@
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -1734,7 +1764,7 @@
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -1826,7 +1856,7 @@
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -1907,8 +1937,8 @@
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -1925,9 +1955,9 @@
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -1956,6 +1986,12 @@
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -2106,6 +2142,9 @@ img {
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -2175,7 +2214,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -2319,7 +2358,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -2411,7 +2450,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -2492,8 +2531,8 @@ img {
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -2510,9 +2549,9 @@ img {
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -2541,6 +2580,12 @@ img {
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -2587,6 +2632,9 @@ img {
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -2656,7 +2704,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -2800,7 +2848,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -2892,7 +2940,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -2973,8 +3021,8 @@ img {
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -2991,9 +3039,9 @@ img {
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -3022,6 +3070,12 @@ img {
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -3194,6 +3248,9 @@ img {
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -3263,7 +3320,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -3407,7 +3464,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -3499,7 +3556,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -3580,8 +3637,8 @@ img {
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -3598,9 +3655,9 @@ img {
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -3629,6 +3686,12 @@ img {
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -3730,6 +3793,9 @@ img {
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
+  .clear {
+    position: relative;
+  }
   #search {
     position: absolute !important;
     left: 40%;
@@ -3799,7 +3865,7 @@ img {
   #dots {
     position: absolute;
     left: 5%;
-    top: 37.6%;
+    top: 75.3%;
     width: 100px;
   }
   #dotsprod {
@@ -3943,7 +4009,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 85%;
-    top: 171%;
+    top: 169%;
     width: 130px;
   }
   #dotsprod {
@@ -4035,7 +4101,7 @@ img {
   .btn-primary {
     position: absolute;
     left: 88%;
-    top: 156%;
+    top: 154%;
     width: 130px;
   }
   #dotsprod {
@@ -4116,8 +4182,8 @@ img {
   }
   .btn-primary {
     position: absolute;
-    left: 94%;
-    top: 207.5%;
+    left: 89%;
+    top: 200.5%;
     width: 140px;
   }
   #dotsprod {
@@ -4134,9 +4200,9 @@ img {
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 198%;
+    top: 194%;
     height: 20%;
-    left: -23%;
+    left: -17%;
   }
   .product {
     position: absolute;
@@ -4165,6 +4231,12 @@ img {
 }
 
 @media (min-width: 1458px) {
+  .btn-primary {
+    position: absolute;
+    left: 94%;
+    top: 204.5%;
+    width: 140px;
+  }
   .product {
     position: absolute;
     left: 93.8%;
@@ -4210,7 +4282,6 @@ html {
 
 body {
   font-weight:  700;
-  font-style:  normal;
   font-family: "acumin-pro", sans-serif;
   font-weight: 400;
   font-style: normal;
