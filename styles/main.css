@@ -42,6 +42,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -126,6 +130,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -199,6 +207,10 @@
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -291,6 +303,10 @@
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -372,6 +388,10 @@
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -583,6 +603,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -667,6 +691,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -740,6 +768,10 @@
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -832,6 +864,10 @@
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -913,6 +949,10 @@
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -1096,6 +1136,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -1180,6 +1224,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -1253,6 +1301,10 @@
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -1345,6 +1397,10 @@
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -1426,6 +1482,10 @@
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -1590,6 +1650,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -1674,6 +1738,10 @@
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -1747,6 +1815,10 @@
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -1839,6 +1911,10 @@
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -1920,6 +1996,10 @@
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -2079,6 +2159,15 @@
   padding-right: 20px;
 }
 
+.product-page-card {
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 img {
   vertical-align: middle;
   border-style: none;
@@ -2184,6 +2273,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -2268,6 +2361,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -2341,6 +2438,10 @@ img {
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -2433,6 +2534,10 @@ img {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -2514,6 +2619,10 @@ img {
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -2674,6 +2783,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -2758,6 +2871,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -2831,6 +2948,10 @@ img {
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -2923,6 +3044,10 @@ img {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -3004,6 +3129,10 @@ img {
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -3290,6 +3419,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -3374,6 +3507,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -3447,6 +3584,10 @@ img {
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -3539,6 +3680,10 @@ img {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -3620,6 +3765,10 @@ img {
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
@@ -3835,6 +3984,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -3919,6 +4072,10 @@ img {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
   .card-trip {
     height: 200px;
   }
@@ -3992,6 +4149,10 @@ img {
         grid-template-columns: 1fr 1fr;
   }
   .pr {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .product-page-card {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -4084,6 +4245,10 @@ img {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
   }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+  }
   .card-trip {
     height: 600px;
   }
@@ -4165,6 +4330,10 @@ img {
   .pr {
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
+  }
+  .product-page-card {
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .card-trip {
     height: 700px;
