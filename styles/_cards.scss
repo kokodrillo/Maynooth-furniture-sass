@@ -29,7 +29,9 @@
 .card-trip {
   overflow: hidden;
   background: white;
+  position:relative;
 }
+
 
 .card-trip > img {
   width: 100%;
@@ -100,3 +102,6 @@ img {
 .card-sofa{
   box-shadow: 3px 3px 9px 1px #ccc;
 }
+
+
+

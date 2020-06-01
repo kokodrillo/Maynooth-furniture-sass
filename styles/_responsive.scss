@@ -66,7 +66,7 @@
 
   .back {
     position: absolute;
-    top: 93%;
+    top: 96%;
   }
   .btn-primary {
     position: absolute;
@@ -84,16 +84,15 @@
     #dotsprod {
       position: absolute;
       left: 5%;
-      top: 37.1%;
+      // top: 50.3%;
+      top:40%;
       width: 100px;
      }
-     .product {
-      // position: absolute;
-      // left: 70%;
-      // top: 84%;
-      // width: 130px;
-      top: 84%;
-    }
+   
+    .product {
+      position:absolute;
+      top: 70%;
+  }
 }
 
 // ----------------------------------------------------------------------------
@@ -151,18 +150,18 @@
 
   .back {
    position: absolute;
-   top: 110%;
+   top: 95%;
  }
  .btn-primary {
   position: absolute;
   left: 82%;
-  top: 130%;
+  top: 128%;
   width: 120px;
   }
   #dotsprod {
     position: absolute;
     left: 5%;
-    top: 51.5%;
+    top: 37.2%;
     width: 140px;
    }
    #dots {
@@ -174,9 +173,9 @@
    .product {
     position: absolute;
     left: 82%;
-    top: 98%;
+    top: 70%;
     width: 120px;
-}
+  }
 }
 
 // -----------------------------------------------------------------------------
@@ -230,7 +229,7 @@
   }
   .back{
     position: absolute;
-    top: 161%;
+    top: 97%;
    }
    .btn-primary {
     position: absolute;
@@ -241,7 +240,7 @@
   #dotsprod {
     position: absolute;
     left: 4%;
-    top: 101%;
+    top: 41%;
     width: 180px;
    }
    #dots {
@@ -253,7 +252,7 @@
    .product{
     position: absolute;
     left: 85%;
-    top: 148%;
+    top: 88%;
     width: 130px;
   }
 }
@@ -326,7 +325,7 @@
 
 .back{
   position: absolute;
-  top: 166%;
+  top: 97%;
  }
 
  .break{
@@ -342,7 +341,7 @@
   #dotsprod {
     position: absolute;
     left: 4%;
-    top: 103%;
+    top: 39%;
     width: 240px;
    }
    #dots {
@@ -354,7 +353,7 @@
    .product{
     position: absolute;
     left: 88%;
-    top: 150%;
+    top: 90%;
     width: 130px;
   }
 }
@@ -369,13 +368,13 @@
     border-radius: 15px;
     width: 15%;
     height: 20%;
-    left: 82%;
+    left: 75%;
     font-size: 15px;
     }
 
   #icons {
     position: absolute;
-    left: 95%;
+    left: 91%;
     height: 20%;
   }
 
@@ -417,11 +416,11 @@
 
   .back {
     position: absolute;
-    top: 188%;
+    top: 96.5%;
    }
 
    .break {
-    padding: 121px;
+    padding: 206px;
    }
    .btn-primary {
     position: absolute;
@@ -434,9 +433,9 @@
     border-style: none;
     width: 60%;
     position: absolute;
-    top: 163.5%;
+    top: 73%;
     height: 20%;
-    left: -23%;
+    left: -3%;
    }
 
   #dots {
@@ -450,11 +449,64 @@
    }
    .product {
     position: absolute;
-    left: 94%;
-    top: 171%;
+    left: 88.6%;
+    top: 91%;
     width: 140px;
   }
-
 }
 
+// --------------------------------------------------------------------------
+// XXL devices (large desktops, 1407px and up)
+@media (min-width: 1407px) {
+  .product {
+    position: absolute;
+    left: 89%;
+    top: 91%;
+    width: 140px;
+    }
+  #dotsprod {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+    position: absolute;
+    top: 73%;
+    height: 20%;
+    left: -6%;
+    }
+  }
 
+  // --------------------------------------------------------------------------
+// XXXL devices (large desktops, 1458px and up)
+@media (min-width: 1458px) {
+  .product {
+    position: absolute;
+    left: 93.8%;
+    top: 91%;
+    width: 140px;
+    }
+  #dotsprod {
+      vertical-align: middle;
+      border-style: none;
+      width: 60%;
+      position: absolute;
+      top: 73%;
+      height: 20%;
+      left: -16%;
+      }
+  #icons {
+    position: absolute;
+    left: 92%;
+    height: 20%;
+    }
+    #search {
+      position: absolute !important;
+      left: 80%;
+      border: none;
+      border-radius: 15px;
+      width: 15%;
+      height: 20%;
+      left: 75%;
+      font-size: 15px;
+      }
+
+  }
